@@ -9,7 +9,7 @@ int main()
  
    cin>>number1;
    
-   ci>>number2;
+   cin>>number2;
    
    cout<<number1+number2;
    
